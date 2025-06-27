@@ -21,7 +21,7 @@ A powerful web-based video editor built with React, TypeScript, and FFmpeg.wasm.
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone mygit link
    cd zoomscape-video-editor
    ```
 
